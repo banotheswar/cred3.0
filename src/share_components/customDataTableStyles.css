@@ -1,0 +1,10 @@
+.rdth > div > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+ 
+  .rdth > div > div > svg {
+    margin-left: 5px; /* Adjust the margin as needed */
+  }
